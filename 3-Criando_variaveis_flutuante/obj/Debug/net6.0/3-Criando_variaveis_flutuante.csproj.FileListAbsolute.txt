@@ -1,0 +1,15 @@
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\bin\Debug\net6.0\3-Criando_variaveis_flutuante.exe
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\bin\Debug\net6.0\3-Criando_variaveis_flutuante.deps.json
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\bin\Debug\net6.0\3-Criando_variaveis_flutuante.runtimeconfig.json
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\bin\Debug\net6.0\3-Criando_variaveis_flutuante.dll
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\bin\Debug\net6.0\3-Criando_variaveis_flutuante.pdb
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\3-Criando_variaveis_flutuante.csproj.AssemblyReference.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\3-Criando_variaveis_flutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\3-Criando_variaveis_flutuante.AssemblyInfoInputs.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\3-Criando_variaveis_flutuante.AssemblyInfo.cs
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\3-Criando_variaveis_flutuante.csproj.CoreCompileInputs.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\3-Criando_variaveis_flutuante.dll
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\refint\3-Criando_variaveis_flutuante.dll
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\3-Criando_variaveis_flutuante.pdb
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\3-Criando_variaveis_flutuante.genruntimeconfig.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\3-Criando_variaveis_flutuante\obj\Debug\net6.0\ref\3-Criando_variaveis_flutuante.dll

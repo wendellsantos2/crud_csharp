@@ -1,0 +1,15 @@
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\bin\Debug\net6.0\1-Ola-mundo.exe
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\bin\Debug\net6.0\1-Ola-mundo.deps.json
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\bin\Debug\net6.0\1-Ola-mundo.runtimeconfig.json
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\bin\Debug\net6.0\1-Ola-mundo.dll
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\bin\Debug\net6.0\1-Ola-mundo.pdb
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\1-Ola-mundo.csproj.AssemblyReference.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\1-Ola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\1-Ola-mundo.AssemblyInfoInputs.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\1-Ola-mundo.AssemblyInfo.cs
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\1-Ola-mundo.csproj.CoreCompileInputs.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\1-Ola-mundo.dll
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\refint\1-Ola-mundo.dll
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\1-Ola-mundo.pdb
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\1-Ola-mundo.genruntimeconfig.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\1-Ola-mundo\obj\Debug\net6.0\ref\1-Ola-mundo.dll

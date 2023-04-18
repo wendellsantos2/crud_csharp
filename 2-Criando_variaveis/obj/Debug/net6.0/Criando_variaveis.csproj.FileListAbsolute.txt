@@ -1,0 +1,15 @@
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\Criando_variaveis.csproj.AssemblyReference.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\Criando_variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\Criando_variaveis.AssemblyInfoInputs.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\Criando_variaveis.AssemblyInfo.cs
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\Criando_variaveis.csproj.CoreCompileInputs.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\bin\Debug\net6.0\Criando_variaveis.exe
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\bin\Debug\net6.0\Criando_variaveis.deps.json
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\bin\Debug\net6.0\Criando_variaveis.runtimeconfig.json
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\bin\Debug\net6.0\Criando_variaveis.dll
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\bin\Debug\net6.0\Criando_variaveis.pdb
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\Criando_variaveis.dll
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\refint\Criando_variaveis.dll
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\Criando_variaveis.pdb
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\Criando_variaveis.genruntimeconfig.cache
+C:\projetos\Laravel\crud_C#\crud_csharp\Criando_variaveis\obj\Debug\net6.0\ref\Criando_variaveis.dll
